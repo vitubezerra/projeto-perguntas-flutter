@@ -1,12 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Esse repositório trata-se de um aplicativo de perguntas, o mesmo foi proposto afim de praticar o meu conhecimento com o framework flutter.
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
